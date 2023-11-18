@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 # Configure the logging module
 logging.basicConfig(level=logging.INFO)
 
-lora_path='Percent-BFD/nips_qwen14b_lora_v7'
+lora_path='supriyar/percent_bfd_qwen'
 model_path = 'Qwen/Qwen-14B'
 device='auto'
 
